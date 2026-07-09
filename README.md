@@ -23,6 +23,9 @@ a clean interface, instant results, and automatic score tracking.
 
 
 Rock-Paper-Scissors/
+│── ROCK.jpg
+│── SCISSOR.jpg
+│── hnd.jpg
 │── index.html
 │── style.css
 │── script.js
